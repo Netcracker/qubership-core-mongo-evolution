@@ -20,7 +20,7 @@
         <jacoco.plugin.version>0.8.12</jacoco.plugin.version>
         <junit.version>5.11.4</junit.version>
         <powermock.version>2.0.9</powermock.version>
-        <mockito.version>5.15.2</mockito.version>
+        <mockito.version>5.18.0</mockito.version>
         <sonar.coverage.jacoco.xmlReportPaths>
             ${project.basedir}/../mongo-evolution-report-aggregate/target/site/jacoco-aggregate/jacoco.xml
         </sonar.coverage.jacoco.xmlReportPaths>
