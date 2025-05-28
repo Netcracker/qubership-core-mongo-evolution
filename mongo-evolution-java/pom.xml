@@ -16,7 +16,7 @@
         <annotations.version>26.0.1</annotations.version>
         <reflections.version>0.10.2</reflections.version>
         <mongodb.version>5.0.1</mongodb.version>
-        <jacoco.plugin.version>0.8.12</jacoco.plugin.version>
+        <jacoco.plugin.version>0.8.13</jacoco.plugin.version>
         <lombok.version>1.18.36</lombok.version>
         <mockito.version>5.15.2</mockito.version>
         <mongo.test.server.version>1.46.0</mongo.test.server.version>
