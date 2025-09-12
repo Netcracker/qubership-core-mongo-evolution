@@ -23,7 +23,7 @@
         <java.version>17</java.version>
         <annotations.version>24.1.0</annotations.version>
         <reflections.version>0.10.2</reflections.version>
-        <mongodb.version>5.2.1</mongodb.version>
+        <mongodb.version>5.5.1</mongodb.version>
         <jacoco.plugin.version>0.8.13</jacoco.plugin.version>
         <lombok.version>1.18.38</lombok.version>
         <mockito.version>5.14.2</mockito.version>
